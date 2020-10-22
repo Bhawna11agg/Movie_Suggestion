@@ -1,3 +1,3 @@
 # Movie_Suggestion
 
-<img src="assets/Screenshot_Login_Screen" width ="60%"/>
+<img src="app/src/main/assets/Screenshot_Login_Screen" width ="60%"/>
