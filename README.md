@@ -7,5 +7,5 @@
 <img src="app/src/main/assets/Popular_movie.jpeg" width ="30%"/><br>
 
 #Movie Details<br>
-<img src="app/src/main/assets/Detail1.jpeg" width ="30%"/><br>
+<img src="app/src/main/assets/Detail1.jpeg" width ="30%"/>
 <img src="app/src/main/assets/Details2.jpeg" width ="30%"/><br>
